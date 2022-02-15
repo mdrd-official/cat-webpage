@@ -1,0 +1,85 @@
+.header{
+    background: black;
+    width: 100%;
+    height: 80px;
+    
+}
+.body{
+    margin: 0;
+    
+}
+.logo{
+    width: 50%;
+    padding-top:  10px;
+    float: left; 
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.logo-text{
+    color:aqua;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 170px;
+    
+}
+.label-login{
+    color: aliceblue;
+
+}
+.forgotten{
+    color: white;
+    text-decoration: none;
+    font-size: small;
+}
+.sub-btn{
+    background:grey;
+    color: white;
+}
+
+.right-section{
+    width: 50%;
+    float: right;
+    padding-top: 0;
+    
+}
+.image{
+    width: 50%;
+    height: 355px;
+    padding-bottom: 0;
+    float: left;
+}
+.main-body{
+    background: grey;
+    height: 355px;
+}
+.h2{
+    padding-left: 10px;
+
+}
+ .form-align{
+     padding-left: 10px;
+     
+ }
+ .f1{
+     margin: 0;
+     padding-top: 10px;
+ }
+#f2{
+    width: 50%;
+    padding-top: 10px;
+}
+.f3{
+    background: black;
+    color: white;
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    background:black;
+    padding:0;
+    
+}
+
